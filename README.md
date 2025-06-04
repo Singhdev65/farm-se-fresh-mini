@@ -1,19 +1,30 @@
 🌾 Farm Fresh App
+
 A full-stack web application for browsing farm-fresh products, adding items to a cart, and placing orders.
 
 🗂️ Project Structure
 
+
 farm-se-fresh-mini/
+
 ├── backend/ # Express API with MongoDB
+
 ├── frontend/ # React frontend with Context-based Cart
+
 └── README.md
 
+
 🚀 Getting Started
+
+
 
 1️⃣ Clone the Repository
 
 git clone https://github.com/Singhdev65/farm-se-fresh-mini.git
+
 cd farm-se-fresh-mini
+
+
 
 2️⃣ Backend Setup
 
